@@ -1,8 +1,10 @@
 <h1>Bem vindo!</h1>
 <br>
 <br>
+<div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rapharosa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapharosa&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 Here are some ideas to get you started:
 <div style="display: inline_block"><br>
